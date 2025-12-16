@@ -4,5 +4,5 @@
 
 <a id="Paper" href="https://arxiv.org/pdf/1812.04588">Based on work here</a>
 
-<p href="#Top"> Top of the Page :up_arrow: </a>
+<p href="#Top"> Top of the Page :up_arrow: </p>
 
