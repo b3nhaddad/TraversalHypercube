@@ -10,5 +10,5 @@
   <summary><h2 id = "Synopsis"><b> This notebook (and code) aims to traverse a hypercube in N-dimesional space</b></h2></summary>
 </details>
 
-<a href="#Top"> Top of the Page :up_arrow: </a>
+<a href="#Top"> Top of the Page &uarr; </a>
 
